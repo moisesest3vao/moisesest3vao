@@ -30,11 +30,11 @@ I enjoy learning to code every single thing that I judge interesting. I enjoy to
  
 </div>
   
-  <p align="center"> 
+  <p align="center" Total de visitas no meu perfil 🕵️ p/> 
 
- ## Total de visitas no meu perfil 🕵️ <br>
+  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/moisesest3vao/count.svg" />
  </p>
 
-</p>
+
