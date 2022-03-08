@@ -30,7 +30,7 @@ I enjoy learning to code every single thing that I judge interesting. I enjoy to
  
 </div>
   
-  <p align="center"> Total de visitas no meu perfil 🕵️ <p/>
+  <h3 align="center"> Total de visitas no meu perfil 🕵️ <h3/>
 
   <br>
  <p align="center"> 
