@@ -2,7 +2,7 @@
 I'm a 17 years old student of CyberSecurity. Trying to get my first oportunity as a Developing Intern.
 I enjoy learning to code every single thing that I judge interesting. I enjoy to watch anime as well.
 
-- 🌱 I’m currently learning Java Servlets in Spring Framework Course
+- 🌱 I’m currently learning Spring Framework
 - 💬 Ask me about my projects if you want to understand them
 - 😄 Pronouns: he/him
 
