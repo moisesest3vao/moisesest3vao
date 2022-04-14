@@ -18,7 +18,7 @@ I enjoy learning to code every single thing that I judge interesting. I enjoy to
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-java" height="30" width="40" src="https://www.pngmart.com/files/21/Spring-Transparent-PNG.png">
+  <img align="center" alt="Rafa-java" height="30" width="30" src="https://www.pngmart.com/files/21/Spring-Transparent-PNG.png">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
