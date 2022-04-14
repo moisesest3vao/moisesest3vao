@@ -31,10 +31,12 @@ I enjoy learning to code every single thing that I judge interesting. I enjoy to
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
+   <hr>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=albadauto&row=1&theme=tokyonight"/>
   <h3 align="center"> Total de visitas no meu perfil 🕵️ <h3/>
 
   <br>
+    
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/moisesest3vao/count.svg" />
  </p>
