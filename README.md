@@ -1,6 +1,6 @@
 ### Hi there, I'm Moisés 👋
 I'm a 17 years old student of CyberSecurity and a Developer Intern in Soluarq.
-I enjoy learning to code every single thing that I judge interesting. I enjoy to watch anime as well.
+I enjoy learning to code every single thing that I judge interesting. I am entretained by watching anime as well.
 
 - 🌱 I’m currently learning Spring Framework and Angular
 - 💬 Ask me about my projects if you want to understand them
