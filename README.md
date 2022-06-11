@@ -3,7 +3,6 @@ I'm a 17 years old student of CyberSecurity and a Developer Intern in Soluarq.
 I enjoy learning to code every single thing that I judge interesting. I am entretained by watching anime as well.
 
 - 🌱 I’m currently learning microsservices using Java
-- 💬 Ask me about my projects if you want to understand them
 - 😄 Pronouns: he/him
 
 <div align="center">
