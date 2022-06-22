@@ -36,11 +36,6 @@
   <img src="https://img.shields.io/static/v1?message=moisesestevao2004@hotmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/moisesest3vao/moisesest3vao/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 
    <hr>
