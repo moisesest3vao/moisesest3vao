@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="http://moisesui.herokuapp.com/assets/images/moises.png"  />
+<img align="right" style="margin-bottom: 5px;" height="200" src="http://moisesui.herokuapp.com/assets/images/moises.png"  />
 
 ###
 
