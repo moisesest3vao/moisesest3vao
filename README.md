@@ -28,7 +28,7 @@
 </div>
    <hr>
         <img width="99%" src="https://github-profile-trophy.vercel.app/?username=moisesest3vao&row=1&theme=tokyonight"/>
-  <h3 align="center">Total HTTP Requests to my profile🕵️<h3/>
+  <h3 align="center">Total GET HTTP Requests to my profile🕵️<h3/>
   <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/moisesest3vao/count.svg" />
