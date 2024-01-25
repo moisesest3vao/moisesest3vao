@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=moisesest3vao" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=aura&hide_border=false&username=moisesest3vao" height="150" alt="languages graph"  />
+   <img width="99%" src="https://github-profile-trophy.vercel.app/?username=moisesest3vao&row=1&theme=tokyonight"/>
 </div>
 <img align="right" style="margin-bottom: 15px;" height="200" src="http://moisesui.herokuapp.com/assets/images/moises.png"  />
 <div align="center">
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/static/v1?message=moisesestevao2004@hotmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
    <hr>
-        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=moisesest3vao&row=1&theme=tokyonight"/>
+       
   <h3 align="center">Total GET HTTP Requests to my profile🕵️<h3/>
   <br>
  <p align="center"> 
