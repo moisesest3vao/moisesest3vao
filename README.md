@@ -2,8 +2,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0;">
-    <img height="222" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=moisesest3vao"  alt="stats graph" />
-    <img height="222" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=aura&hide_border=false&username=moisesest3vao" alt="languages graph" />
+    <img  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=moisesest3vao"  alt="stats graph" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=aura&hide_border=false&username=moisesest3vao" alt="languages graph" />
   </div>
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=moisesest3vao&row=1&theme=tokyonight" alt="trophy" />
